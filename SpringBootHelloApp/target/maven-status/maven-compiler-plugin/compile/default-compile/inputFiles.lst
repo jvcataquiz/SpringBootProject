@@ -1,0 +1,13 @@
+c:\Users\jerick.v.cataquiz\Documents\Testing\SpringBootHelloApp\src\main\java\com\example\springboot\aop\ApiResponseWrappingAspect.java
+c:\Users\jerick.v.cataquiz\Documents\Testing\SpringBootHelloApp\src\main\java\com\example\springboot\config\AopConfig.java
+c:\Users\jerick.v.cataquiz\Documents\Testing\SpringBootHelloApp\src\main\java\com\example\springboot\controller\StudentController.java
+c:\Users\jerick.v.cataquiz\Documents\Testing\SpringBootHelloApp\src\main\java\com\example\springboot\dto\ApiResponse.java
+c:\Users\jerick.v.cataquiz\Documents\Testing\SpringBootHelloApp\src\main\java\com\example\springboot\dto\CourseDto.java
+c:\Users\jerick.v.cataquiz\Documents\Testing\SpringBootHelloApp\src\main\java\com\example\springboot\dto\StudentDto.java
+c:\Users\jerick.v.cataquiz\Documents\Testing\SpringBootHelloApp\src\main\java\com\example\springboot\entity\Course.java
+c:\Users\jerick.v.cataquiz\Documents\Testing\SpringBootHelloApp\src\main\java\com\example\springboot\entity\Student.java
+c:\Users\jerick.v.cataquiz\Documents\Testing\SpringBootHelloApp\src\main\java\com\example\springboot\exception\StudentNotFoundException.java
+c:\Users\jerick.v.cataquiz\Documents\Testing\SpringBootHelloApp\src\main\java\com\example\springboot\exception\StudentNotFoundResponse.java
+c:\Users\jerick.v.cataquiz\Documents\Testing\SpringBootHelloApp\src\main\java\com\example\springboot\repository\StudentRepository.java
+c:\Users\jerick.v.cataquiz\Documents\Testing\SpringBootHelloApp\src\main\java\com\example\springboot\services\StudentService.java
+c:\Users\jerick.v.cataquiz\Documents\Testing\SpringBootHelloApp\src\main\java\com\example\springboot\SpringBootTestingApplication.java
